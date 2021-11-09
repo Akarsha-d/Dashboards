@@ -1,0 +1,6 @@
+[0721/135237.195:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[0721/135237.195:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[0721/135237.196:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\riaka\AppData\Local\Power BI Desktop\User Data\Crashpad\reports\5ebd0143-a9fc-45ec-90eb-0e19d606420a.dmp: The system cannot find the file specified. (0x2)
+[0721/135237.197:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\riaka\AppData\Local\Power BI Desktop\User Data\Crashpad\reports\9481f7c7-724a-48bf-a4b0-50d8a72b2143.dmp: The system cannot find the file specified. (0x2)
+[0721/135237.197:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0721/195018.070:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
